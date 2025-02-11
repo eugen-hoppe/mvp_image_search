@@ -3,6 +3,7 @@
 ## Versions
 
 v1.0: https://github.com/eugen-hoppe/mvp_image_search/tree/da979d203ac06f499efa4c3652a1e99777fc8b80
+v1.1: https://github.com/eugen-hoppe/mvp_image_search/tree/df03778736fbdaf968e9dbc9e00437002b2f968b
 
 
 ---
